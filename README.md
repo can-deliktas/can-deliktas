@@ -1,3 +1,4 @@
+![mountain-peak-at-sunset](https://github.com/user-attachments/assets/2dfcd9c6-018d-48ae-907d-e94802a8716f)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:can.deliktas@protonmail.com) 
