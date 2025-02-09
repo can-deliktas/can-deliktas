@@ -1,4 +1,5 @@
-![mountain-peak-at-sunset](https://github.com/user-attachments/assets/2dfcd9c6-018d-48ae-907d-e94802a8716f)
+
+<h1 align="center">Hi 👋, I'm Can Deliktaş</h1>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:can.deliktas@protonmail.com) 
@@ -21,4 +22,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=can-deliktas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=can-deliktas&icon=0&color=0)](https://visitcount.itsvg.in)
