@@ -2,6 +2,10 @@
 
 ### Junior Siber Güvenlik Uzmanı | Açık Kaynak Katkıcısı
 
+## 🌐 Diller
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧-English-red)](README.md)
+[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷-Türkçe-blue)](README-TR.md)
+
 ## 🌐 Sosyal Medya:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:can.deliktas@protonmail.com) 
 
