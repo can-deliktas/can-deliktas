@@ -1,6 +1,7 @@
 ![Türk](https://github.com/user-attachments/assets/1c1c96aa-1de4-43b0-8b53-bf8f1006bb67)
 ![Türk](https://github.com/user-attachments/assets/e70c2000-dd05-4f15-bc67-08113c2fe882)
 **Ne Mutlu Türküm Diyene!**
+
 ***Ulu Önder Gazi Mustafa Kemal ATATÜRK***
 
 <h1 align="center">Hi 👋, I'm Can Arkadaş Deliktaş</h1>
